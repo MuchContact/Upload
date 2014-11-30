@@ -11,7 +11,6 @@ MyEclipse 8.5+Tomcat 6
 - http://localhost:8080/Upload/
 - http://localhost:8080/Upload/progress
 - http://localhost:8080/Upload/test
-***
 
 ###Svn下载地址
 https://github.com/MuchContact/Upload
